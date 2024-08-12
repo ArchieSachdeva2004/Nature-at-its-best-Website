@@ -27,5 +27,7 @@ HTML
 CSS
 Contributing
 Feel free to contribute by making improvements or adding new features. Open an issue or submit a pull request with your suggestions.
+![image](https://github.com/user-attachments/assets/cbcbafcd-af0a-4e6e-a0b4-cd06bffad181)
+
 
 
