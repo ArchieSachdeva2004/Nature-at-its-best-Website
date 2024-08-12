@@ -28,6 +28,8 @@ CSS
 Contributing
 Feel free to contribute by making improvements or adding new features. Open an issue or submit a pull request with your suggestions.
 ![image](https://github.com/user-attachments/assets/cbcbafcd-af0a-4e6e-a0b4-cd06bffad181)
+![image](https://github.com/user-attachments/assets/b333cd04-a644-4673-b3a1-d8382b2f2d5d)
+![image](https://github.com/user-attachments/assets/264dfdaf-5322-4f27-93de-1d4109722f8a)
 
 
 
