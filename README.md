@@ -23,10 +23,9 @@ Customize Styles:
 
 Edit the style.css file to modify the visual styling of the website, such as background images, text colors, and layouts.
 Technologies Used
-HTML5
-CSS3
+HTML
+CSS
 Contributing
 Feel free to contribute by making improvements or adding new features. Open an issue or submit a pull request with your suggestions.
 
-License
-This project is licensed under the MIT License. See the LICENSE file for details.
+
